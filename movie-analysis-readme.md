@@ -59,21 +59,4 @@ This dataset allows for various interesting analyses, including:
 
 3. Load the dataset and start your analysis!
 
-## Contributing
 
-We welcome contributions to this project! If you have ideas for analyses or visualizations, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- IMDb for providing movie ratings and information
-- Box Office Mojo for financial data
-
-## Contact
-
-For any questions or suggestions, please open an issue in this repository or contact the maintainer at [your-email@example.com].
-
-Happy analyzing!
