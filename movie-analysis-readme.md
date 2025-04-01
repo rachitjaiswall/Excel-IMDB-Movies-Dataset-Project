@@ -48,15 +48,3 @@ This dataset allows for various interesting analyses, including:
 6. Analysis of movie runtime and its relationship to ratings or earnings
 7. Exploration of MPAA ratings and their impact on viewership or earnings
 
-## Getting Started
-
-1. Clone this repository:
-   ```
-   git clone https://github.com/yourusername/movie-analysis-project.git
-   ```
-
-2. Ensure you have the necessary tools installed (e.g., Python, pandas, matplotlib)
-
-3. Load the dataset and start your analysis!
-
-
